@@ -1,0 +1,11 @@
+
+body {
+    background-image: url("images/background.jpeg");
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
